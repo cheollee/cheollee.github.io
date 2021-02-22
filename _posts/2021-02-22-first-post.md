@@ -3,7 +3,6 @@ title: "Welcome to cheollee!"
 date: 2021-02-22 08:26:28 -0400
 categories: jekyll update
 ---
-<font size=12pt>
 <pre>
 이제 기본입니다.
 이제 새 리포지토리의 기본 분기 이름은 main입니다. 다른 기본값을 설정하려면 
@@ -16,4 +15,3 @@ categories: jekyll update
 
 이 변경 사항은 GitHub가 기본 브랜치의 이름을 변경하려는 프로젝트 및 유지 관리자를 지원하기 위해 수행하는 많은 변경 사항 중 하나입니다. 변경 사항에 대해 자세히 알아 보려면 github / renaming을 참조하십시오 .
 </pre>
-</font>
