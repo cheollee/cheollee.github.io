@@ -4,8 +4,7 @@ date: 2021-02-22 08:26:28 -0400
 categories: jekyll update
 ---
 이제 기본입니다.
-이제 새 리포지토리의 기본 분기 이름은 main입니다. 다른 기본값을 설정하려면 :
-
+이제 새 리포지토리의 기본 분기 이름은 main입니다. 다른 기본값을 설정하려면 
 사용자의 경우 https://github.com/settings/repositories 페이지에서
 조직 소유자의 경우 https://github.com/organizations/YOUR-ORGANIZATION/settings/repository-defaults페이지에서
 엔터프라이즈 관리자의 경우 https://github.com/enterprises/YOUR-ENTERPRISE/settings/member_privileges페이지에서
