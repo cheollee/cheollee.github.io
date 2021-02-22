@@ -1,9 +1,9 @@
 ---
 title: "Welcome to cheollee!"
 date: 2021-02-22 08:26:28 -0400
-categories: jekyll update
+categories: 
 ---
-<font size=9pt>
+<font size=8pt>
 <pre>
 이제 기본입니다.
 이제 새 리포지토리의 기본 분기 이름은 main입니다. 다른 기본값을 설정하려면 
