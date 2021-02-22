@@ -1,7 +1,7 @@
 ---
 title: "Welcome to cheollee!"
 date: 2021-02-22 08:26:28 -0400
-categories: 
+categories: min main
 ---
 <font size=12pt>
 <pre>
